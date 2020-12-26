@@ -1,0 +1,2 @@
+# NYC-School-Analysis
+Analyzed whether student, teacher and parent perceptions of NYC school quality appear to be related to  demographic and academic success metrics using multiple datasets of surveys for different types of schools and Performed Data cleaning, combined large datasets, used correlation analysis and checked whether students,  teachers and parents have similar perception of NYC school quality using box plot 
